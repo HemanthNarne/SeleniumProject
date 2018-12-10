@@ -1,4 +1,4 @@
-package com.mycompany.seleniumphp.newpackage;
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
